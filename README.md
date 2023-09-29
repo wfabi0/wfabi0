@@ -12,11 +12,6 @@
   </div>
 </div>
 
-<p align="center" style="color: red;">
-  <img
-    src="https://github-readme-activity-graph.cyclic.app/graph?username=wfabi0&bg_color=1b1c1d&color=d31212&line=b52146&point=3c8290&area=true&hide_border=true" />
-</p>
-
 <div align="center">
   <a href="mailto:wfabi0@hotmail.com"> <img
       src="https://img.shields.io/badge/-hotmail-%230077B5?style=for-the-badge&logo=microsoft&logoColor=white"
