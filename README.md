@@ -16,6 +16,9 @@
   <a href="mailto:wfabi0@hotmail.com"> <img
       src="https://img.shields.io/badge/-hotmail-%230077B5?style=for-the-badge&logo=microsoft&logoColor=white"
       target="_blank"></a>
+  <a href="https://www.linkedin.com/in/f%C3%A1bio-milagres-368386234"> <img
+      src="https://img.shields.io/badge/-linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+      target="_blank"></a>
 
   <hr>
   <h2> Languages and Tools </h2>
