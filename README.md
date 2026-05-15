@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Meu nome é Fábio Milagres, atualmente estou cursando Sistema de Informação, sou apaixonado por tecnologia e inovação. Tenho envolvimento nesse mundo da programação desde meus 15 anos me divertindo com Java e JavaScript. Hoje vejo isso não só mais como um hobby, mas sim como um futuro.</p>
+<p align="left">Meu nome é Fábio Milagres, atualmente estou cursando Sistema de Informação, sou apaixonado por tecnologia e inovação. Tenho envolvimento nesse mundo da programação desde meus 15 anos me divertindo com Java e JavaScript.</p>
 
 ###
 
